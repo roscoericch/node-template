@@ -1,0 +1,18 @@
+{
+  "transactions": [
+    {
+      "id": "fa40",
+      "fromAccountId": "account1",
+      "toAccountId": "account2",
+      "amount": 100,
+      "currency": "USD"
+    },
+    {
+      "id": "392d",
+      "fromAccountId": "account1",
+      "toAccountId": "account2",
+      "amount": 100,
+      "currency": "USD"
+    }
+  ]
+}
